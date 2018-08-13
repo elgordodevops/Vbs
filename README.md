@@ -1,0 +1,2 @@
+# Vbs
+Scripts .Vbs
